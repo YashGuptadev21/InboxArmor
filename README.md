@@ -1,4 +1,4 @@
-# INBOXARMOR-Spam-Alert-System
+# PREVENTIA-Spam-Alert-System
 The project focuses on the detection of detection of content of the mateiral of Emails and Calls on with the help of Machine Learning algorithms. For the Emails concern, Naive Bayes alogirthm is been used and Support Vector Machine for the content of the SMS.
 
 # Backend Requirements and Libraries
